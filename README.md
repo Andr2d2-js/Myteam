@@ -1,4 +1,4 @@
-RU
+RU https://andr2d2-js.github.io/Myteam/
 
 MyTeam — адаптивный сайт-визитка компании, разработанный с нуля с использованием HTML, CSS и JavaScript.
 
@@ -41,3 +41,4 @@ Responsive and fast layout
 This project showcases my approach to building business websites: clean UI, intuitive navigation, and user-focused design. The website can be easily adapted to different business niches.
 
 If you are looking for a developer to create a simple and professional website for your team or company, feel free to contact me.
+
